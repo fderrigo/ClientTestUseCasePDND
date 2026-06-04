@@ -1,0 +1,26 @@
+# ===== Segreti — MAI versionare =====
+appsettings.json
+*.pfx
+*.p12
+*.key
+*.pem
+
+# ===== Build output .NET =====
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+
+# ===== Visual Studio =====
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Rider / JetBrains =====
+.idea/
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
