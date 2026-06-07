@@ -5,6 +5,10 @@ appsettings.json
 *.key
 *.pem
 
+# ===== Tooling locale (non pubblicare) =====
+CLAUDE.md
+.claude/
+
 # ===== Build output .NET =====
 bin/
 obj/
