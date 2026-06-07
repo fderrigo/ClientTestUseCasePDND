@@ -1,5 +1,8 @@
 # ClientTestUseCasePDND
 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![.NET 9](https://img.shields.io/badge/.NET-9.0-512BD4.svg)](https://dotnet.microsoft.com/download)
+
 Client di test .NET 9 per l'interoperabilità **PDND** (Piattaforma Digitale Nazionale Dati).
 
 Esegue il flusso OAuth2 *client credentials* con **client assertion JWT firmata** (RFC 7523, convenzioni PDND), ottiene un **voucher** (access token) dal token endpoint PDND e chiama un **e-service** esposto dietro gateway WSO2.
@@ -62,3 +65,11 @@ Tutto in `Program.cs`: caricamento config, generazione assertion, richiesta vouc
 ## Note
 
 Tool di **debug/test**, non di produzione: il voucher viene stampato in chiaro e i segreti stanno in un file JSON locale. Per un uso reale, usare un secret manager. Commenti e output console sono in italiano.
+
+## Licenza
+
+Distribuito con licenza **Apache License 2.0**. Vedi i file [`LICENSE`](LICENSE) e [`NOTICE`](NOTICE).
+
+Copyright © 2026 Filippo D'Errigo.
+
+> "PDND", "PagoPA" e i marchi correlati appartengono ai rispettivi proprietari e sono citati solo per descrivere l'interoperabilità. Questo progetto non è affiliato né sponsorizzato da PagoPA S.p.A.

@@ -1,0 +1,19 @@
+ClientTestUseCasePDND
+Copyright 2026 Filippo D'Errigo
+
+This product is licensed under the Apache License, Version 2.0.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+This software interacts with PDND (Piattaforma Digitale Nazionale Dati),
+operated by PagoPA S.p.A. / Developers Italia. "PDND", "PagoPA" and related
+names and marks are property of their respective owners and are referenced
+here solely to describe interoperability. This project is not affiliated with,
+endorsed by, or sponsored by PagoPA S.p.A.
+
+This software depends on third-party packages distributed under their own
+licenses, including (non-exhaustive):
+  - Microsoft.Extensions.Configuration (MIT)
+  - Microsoft.IdentityModel.Tokens (MIT)
+  - System.IdentityModel.Tokens.Jwt (MIT)

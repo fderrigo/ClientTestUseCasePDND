@@ -5,6 +5,10 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>Filippo D'Errigo</Authors>
+    <Description>Client di test .NET per l'interoperabilità PDND: flusso OAuth2 client-credentials con client assertion JWT firmata, richiesta voucher e chiamata e-service.</Description>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Copyright>Copyright 2026 Filippo D'Errigo</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
