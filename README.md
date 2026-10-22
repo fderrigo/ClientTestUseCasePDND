@@ -66,16 +66,14 @@ Tutto in `Program.cs`: caricamento config, generazione assertion, richiesta vouc
 
 Tool di **debug/test**, non di produzione: il voucher viene stampato in chiaro e i segreti stanno in un file JSON locale. Per un uso reale, usare un secret manager. Commenti e output console sono in italiano.
 
-## Sul blog
+## Approfondimenti
 
-Scheda del progetto nella sezione Labs di [derrigo.it](https://www.derrigo.it): [PDND Test Client](https://www.derrigo.it/Products/Info/5/pdnd-test-client)
+Il progetto è presentato nella sezione Labs di [derrigo.it](https://www.derrigo.it): [PDND Test Client](https://www.derrigo.it/Products/Info/5/pdnd-test-client).
 
 Articoli correlati:
 
 - [L'ecosistema digitale nazionale](https://www.derrigo.it/Articles/Info/4/l-ecosistema-digitale-nazionale)
 - [Paperopoli: un Comune finto costruito sul serio](https://www.derrigo.it/Articles/Info/8/paperopoli-un-comune-finto-costruito-sul-serio)
-
-Chi sono: [Filippo D'Errigo](https://www.derrigo.it/Pages/Info/1/chi-sono)
 
 ## Licenza
 
@@ -84,3 +82,7 @@ Distribuito con licenza **Apache License 2.0**. Vedi i file [`LICENSE`](LICENSE)
 Copyright © 2026 Filippo D'Errigo.
 
 > "PDND", "PagoPA" e i marchi correlati appartengono ai rispettivi proprietari e sono citati solo per descrivere l'interoperabilità. Questo progetto non è affiliato né sponsorizzato da PagoPA S.p.A.
+
+## Autore
+
+**Filippo D'Errigo** · [Chi sono](https://www.derrigo.it/Pages/Info/1/chi-sono) · [derrigo.it](https://www.derrigo.it) · [GitHub](https://github.com/fderrigo)
